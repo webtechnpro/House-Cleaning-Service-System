@@ -11,3 +11,6 @@ Modou Lamin CeesayY(1335539)
 # Developed by: Modou Lamin Ceesay AND MR Abdullah Abdulmajeed 
 # Language : Java, Jsp, HTML, CSS, Javascript
 # Server : TOMCAT 9
+
+
+https://www.thejavaprogrammer.com/java-program-first-come-first-serve-fcfs-scheduling-algorithm/
