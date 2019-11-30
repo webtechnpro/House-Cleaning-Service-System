@@ -18,3 +18,7 @@ https://www.thejavaprogrammer.com/java-program-first-come-first-serve-fcfs-sched
 https://stackoverflow.com/questions/33035213/room-booking-program
 
 https://www.tutorialspoint.com/java/java_strings.htm
+
+https://stackoverflow.com/questions/19431234/converting-between-java-time-localdatetime-and-java-util-date
+
+https://www.tutorialspoint.com/java/util/index.htm
