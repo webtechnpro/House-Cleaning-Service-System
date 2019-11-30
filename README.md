@@ -16,3 +16,5 @@ Modou Lamin CeesayY(1335539)
 https://www.thejavaprogrammer.com/java-program-first-come-first-serve-fcfs-scheduling-algorithm/
 
 https://stackoverflow.com/questions/33035213/room-booking-program
+
+https://www.tutorialspoint.com/java/java_strings.htm
