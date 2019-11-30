@@ -9,5 +9,5 @@ Modou Lamin CeesayY(1335539)
 
 # Project Demo
 # Developed by: Modou Lamin Ceesay AND MR Abdullah Abdulmajeed 
-# Language : Java, Jsp, HTML, CSS, Javascript, html, css
+# Language : Java, Jsp, HTML, CSS, Javascript
 # Server : TOMCAT 9
